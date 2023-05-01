@@ -12,7 +12,9 @@ Testing setting up React Projects using Vite
 
 - Follow commands shown in terminal 
 
-- Run off the host name shown
+- Run off the host name shown 
+
+- to run later, use npm start or npm run dev 
 
 
 ## 🚀 About Me
